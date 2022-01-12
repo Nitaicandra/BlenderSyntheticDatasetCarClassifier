@@ -9,7 +9,7 @@ Blender allows for custom python scripts to be run from its text editor. The SYN
 |             ![image](https://user-images.githubusercontent.com/89361982/149077844-703336a6-545e-4ae6-be51-d79adf9d7456.png)|
 |![image](https://user-images.githubusercontent.com/89361982/149078453-0f00be1b-a44b-4a79-8192-453c50ea475b.png)|
 
-| The renders are then used to train Googles MobileNet V2 4 epochs are generally enough to get 100% accuracy on real world vehicls| 
+| The renders are then used to train Googles MobileNet V2, After training the model it will typically be able to predict 30 real world images of those vehicles with close to 100% accuracy| 
 | ------------- |
 |![BF697_ 12_01_2022](https://user-images.githubusercontent.com/89361982/149079039-316039f7-86d5-4c21-a689-2d49e2799a05.gif)|
 
