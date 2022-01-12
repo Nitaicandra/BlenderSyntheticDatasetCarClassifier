@@ -13,13 +13,10 @@ Blender allows for custom python scripts to be run from its console. The SYNTHET
 
 | ###UNTRAINED MODEL | ###TRAINED USING GENERATED DATASET |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![4a284_ 06_01_2022 (2)](https://user-images.githubusercontent.com/89361982/149078999-201676be-1f27-4faa-b33f-1bccc3e9ced5.png)  | ![image](https://user-images.githubusercontent.com/89361982/149078530-ac411eee-9911-43f7-a07d-6f251f17b5fd.png) |
 | Content Cell  | Content Cell  |
 
-###UNTRAINED MODEL
-![4a284_ 06_01_2022 (2)](https://user-images.githubusercontent.com/89361982/149078999-201676be-1f27-4faa-b33f-1bccc3e9ced5.png)
-###TRAINED USING GENERATED DATASET
-![image](https://user-images.githubusercontent.com/89361982/149078530-ac411eee-9911-43f7-a07d-6f251f17b5fd.png)
+
 
 
 
