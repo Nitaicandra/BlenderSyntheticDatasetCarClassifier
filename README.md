@@ -1,6 +1,6 @@
 # BlenderSyntheticDatasetCarClassifier
 ### This program uses synthetic data created In blender to train Google's MobileNet V2 to classify between 3 real world public vehicles (Taxi, Policecar, Firetruck)
-###The model has arround a 90-100% accuracy rate when classifiying realworld Policecars, Firetrucks and Taxis.
+### The model has arround a 90-100% accuracy rate when classifiying realworld Policecars, Firetrucks and Taxis.
 
 Blender allows for custom python scripts to be run from its text editor. The SYNTHETICCAR.py randomly moves blenders cameras and lights around the object using constraints and then automatically renders those objects and places them in a specified directories.
 
