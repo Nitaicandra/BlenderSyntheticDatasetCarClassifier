@@ -1,5 +1,5 @@
 # BlenderSyntheticDatasetCarClassifier
-##This program uses synthetic data created In blender to train Google's MobileNet V2 to classify between 3 real world vehicles(Taxi, Policecar, Firetruck)
+## This program uses synthetic data created In blender to train Google's MobileNet V2 to classify between 3 real world vehicles(Taxi, Policecar, Firetruck)
 The model has arround a 90-100% accuracy rate when classifiying realworld vehicles that it has never seen.
 
 Synthetic datasets come with many advantages over manual created ones. For instance you can procedurally generate thousands of unique images by programtically varying object pose,cameara location, material colors, lighting setups, ect. You can have the renderer automatically annotate those images perfectly which would normally take hundreds of man hours to accomplish. And you can also bake in extra information that you would normally never get in standard datasets like depth maps, heatmaps, normal maps, ect
