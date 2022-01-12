@@ -4,13 +4,13 @@
 
 Blender allows for custom python scripts to be run from its text editor. The SYNTHETICCAR.py randomly moves blenders cameras and lights around the object using constraints and then automatically renders those objects and places them in a specified directories.
 
-| BLENDER RENDER SCRIPT| 
+| BLENDER RENDER SCRIPT OUTPUT| 
 | ------------- |
 |             ![image](https://user-images.githubusercontent.com/89361982/149077844-703336a6-545e-4ae6-be51-d79adf9d7456.png)|
 |![BH699_ 12_01_2022](https://user-images.githubusercontent.com/89361982/149084729-378e7de1-9c76-4cb7-b908-099593f30dab.png)
 |
 
-| The renders are then used to train Googles MobileNet V2. After training, the model will typically be able to correctly identify 30 real world images of the 3 vehicles with close to 100% accuracy| 
+| Those renders are then used to train Google's MobileNet V2 to identify taxis, firetrucks and policecars. After training, the model will typically be able to correctly identify 30 real world images of the 3 vehicles with close to 100% accuracy| 
 | ------------- |
 |![BF697_ 12_01_2022](https://user-images.githubusercontent.com/89361982/149079039-316039f7-86d5-4c21-a689-2d49e2799a05.gif)|
 
