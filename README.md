@@ -5,6 +5,8 @@ The model has arround a 90-100% accuracy rate when classifiying realworld vehicl
 Synthetic datasets come with many advantages over manual created ones. For instance you can procedurally generate thousands of unique images by programtically varying object pose,cameara location, material colors, lighting setups, ect. You can have the renderer automatically annotate those images perfectly which would normally take hundreds of man hours to accomplish. And you can also bake in extra information that you would normally never get in standard datasets like depth maps, heatmaps, normal maps, ect
 
 Blender allows for custom python scripts to be run from its text editor. The SYNTHETICCAR.py randomly moves blenders cameras and lights around the object using constraints and then automatically renders those objects and places them in a specified directories.
+
+
 ![image](https://user-images.githubusercontent.com/89361982/149077844-703336a6-545e-4ae6-be51-d79adf9d7456.png)
 ![image](https://user-images.githubusercontent.com/89361982/149078453-0f00be1b-a44b-4a79-8192-453c50ea475b.png)
 
