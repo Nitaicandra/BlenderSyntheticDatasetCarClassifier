@@ -9,7 +9,7 @@ Blender allows for custom python scripts to be run from its text editor. The SYN
 |             ![image](https://user-images.githubusercontent.com/89361982/149077844-703336a6-545e-4ae6-be51-d79adf9d7456.png)|
 |![BJ701_ 12_01_2022](https://user-images.githubusercontent.com/89361982/149086115-9dfe942a-271c-42ef-9e57-6a3d5a662a15.png)|
 
-| Those renders are then used to train Google's MobileNet V2 to identify taxis, firetrucks and policecars. After training, the model will typically be able to correctly identify 30 real world images of those 3 vehicles with close to 100% accuracy| 
+| Those renders are then used to train Google's MobileNet V2 to identify taxis, firetrucks and policecars. After training, the model will typically be able to correctly identify 30 real world images of those 3 vehicles with near 100% accuracy| 
 | ------------- |
 |![BF697_ 12_01_2022](https://user-images.githubusercontent.com/89361982/149079039-316039f7-86d5-4c21-a689-2d49e2799a05.gif)|
 
